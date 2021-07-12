@@ -1,0 +1,105 @@
+/*
+ This file is part of the OdinMS Maple Story Server
+ Copyright (C) 2008 Patrick Huy <patrick.huy@frz.cc>
+ Matthias Butz <matze@odinms.de>
+ Jan Christian Meyer <vimes@odinms.de>
+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Affero General Public License as
+ published by the Free Software Foundation version 3 as published by
+ the Free Software Foundation. You may not use, modify or distribute
+ this program under any other version of the GNU Affero General Public
+ License.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Affero General Public License for more details.
+
+ You should have received a copy of the GNU Affero General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+package net.server.handlers.login;
+
+import client.MapleCharacter;
+import client.MapleClient;
+import client.MapleJob;
+import client.MapleSkinColor;
+import client.inventory.Item;
+import client.inventory.MapleInventory;
+import client.inventory.MapleInventoryType;
+import net.AbstractMaplePacketHandler;
+import server.MapleItemInformationProvider;
+import tools.MaplePacketCreator;
+import tools.data.input.SeekableLittleEndianAccessor;
+
+public final class CreateCharHandler extends AbstractMaplePacketHandler {
+
+    @Override
+    public final void handlePacket(SeekableLittleEndianAccessor slea, MapleClient c) {
+        String name = slea.readMapleAsciiString();
+        if (!MapleCharacter.canCreateChar(name)) {
+            return;
+        }
+        MapleCharacter newchar = MapleCharacter.getDefault(c);
+        newchar.setWorld(c.getWorld());
+        int job = slea.readInt();
+        int face = slea.readInt();
+        newchar.setFace(face);
+        newchar.setHair(slea.readInt() + slea.readInt());
+        int skincolor = slea.readInt();
+        if (skincolor > 3) {
+            return;
+        }
+        newchar.setSkinColor(MapleSkinColor.getById(skincolor));
+        int top = slea.readInt();
+        int bottom = slea.readInt();
+        int shoes = slea.readInt();
+        int weapon = slea.readInt();
+        newchar.setGender(slea.readByte());
+        newchar.setName(name);
+        if (job == 0) { // Knights of Cygnus
+            newchar.setJob(MapleJob.NOBLESSE);
+            newchar.setMapId(130030000);
+            newchar.getInventory(MapleInventoryType.ETC).addItem(new Item(4161047, (byte) 0, (short) 1));
+        } else if (job == 1) { // Adventurer
+            newchar.setJob(MapleJob.BEGINNER);
+            newchar.setMapId(/*specialJobType == 2 ? 3000600 : */10000);
+            newchar.getInventory(MapleInventoryType.ETC).addItem(new Item(4161001, (byte) 0, (short) 1));
+        } else if (job == 2) { // Aran
+            newchar.setJob(MapleJob.LEGEND);
+            newchar.setMapId(914000000);
+            newchar.getInventory(MapleInventoryType.ETC).addItem(new Item(4161048, (byte) 0, (short) 1));
+        } else {
+            c.announce(MaplePacketCreator.deleteCharResponse(0, 9));
+            return;
+        }
+        //CHECK FOR EQUIPS
+        MapleInventory equip = newchar.getInventory(MapleInventoryType.EQUIPPED);
+        if (newchar.isGM()) {
+            Item eq_hat = MapleItemInformationProvider.getInstance().getEquipById(1002140);
+            eq_hat.setPosition((byte) -1);
+            equip.addFromDB(eq_hat);
+            top = 1042003;
+            bottom = 1062007;
+            weapon = 1322013;
+        }
+        Item eq_top = MapleItemInformationProvider.getInstance().getEquipById(top);
+        eq_top.setPosition((byte) -5);
+        equip.addFromDB(eq_top);
+        Item eq_bottom = MapleItemInformationProvider.getInstance().getEquipById(bottom);
+        eq_bottom.setPosition((byte) -6);
+        equip.addFromDB(eq_bottom);
+        Item eq_shoes = MapleItemInformationProvider.getInstance().getEquipById(shoes);
+        eq_shoes.setPosition((byte) -7);
+        equip.addFromDB(eq_shoes);
+        Item eq_weapon = MapleItemInformationProvider.getInstance().getEquipById(weapon);
+        eq_weapon.setPosition((byte) -11);
+        equip.addFromDB(eq_weapon.copy());
+        if (!newchar.insertNewChar()) {
+            c.announce(MaplePacketCreator.deleteCharResponse(0, 9));
+            return;
+        }
+        c.announce(MaplePacketCreator.addNewCharEntry(newchar));
+    }
+}

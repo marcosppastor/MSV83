@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/MoopleDEV/!svn/ver/117/src/gm/mina
+END
+GMPacketDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MoopleDEV/!svn/ver/116/src/gm/mina/GMPacketDecoder.java
+END
+GMCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MoopleDEV/!svn/ver/116/src/gm/mina/GMCodecFactory.java
+END
+GMPacketEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MoopleDEV/!svn/ver/117/src/gm/mina/GMPacketEncoder.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/MoopleDEV/!svn/ver/118/src/net/mina
+END
+MapleCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MoopleDEV/!svn/ver/118/src/net/mina/MapleCodecFactory.java
+END
+MapleCustomEncryption.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MoopleDEV/!svn/ver/118/src/net/mina/MapleCustomEncryption.java
+END
+MaplePacketEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MoopleDEV/!svn/ver/117/src/net/mina/MaplePacketEncoder.java
+END
+MaplePacketDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MoopleDEV/!svn/ver/118/src/net/mina/MaplePacketDecoder.java
+END

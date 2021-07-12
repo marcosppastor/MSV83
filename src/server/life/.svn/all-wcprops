@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/MoopleDEV/!svn/ver/118/src/server/life
+END
+MapleNPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MoopleDEV/!svn/ver/120/src/server/life/MapleNPC.java
+END
+SpawnPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MoopleDEV/!svn/ver/117/src/server/life/SpawnPoint.java
+END
+MobSkillFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MoopleDEV/!svn/ver/116/src/server/life/MobSkillFactory.java
+END
+MapleMonster.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MoopleDEV/!svn/ver/120/src/server/life/MapleMonster.java
+END
+MobAttackInfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MoopleDEV/!svn/ver/108/src/server/life/MobAttackInfoFactory.java
+END
+MobSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MoopleDEV/!svn/ver/113/src/server/life/MobSkill.java
+END
+MapleNPCStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MoopleDEV/!svn/ver/1/src/server/life/MapleNPCStats.java
+END
+MonsterGlobalDropEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MoopleDEV/!svn/ver/82/src/server/life/MonsterGlobalDropEntry.java
+END
+ElementalEffectiveness.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MoopleDEV/!svn/ver/1/src/server/life/ElementalEffectiveness.java
+END
+MobAttackInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MoopleDEV/!svn/ver/1/src/server/life/MobAttackInfo.java
+END
+MapleMonsterStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MoopleDEV/!svn/ver/116/src/server/life/MapleMonsterStats.java
+END
+MapleLifeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MoopleDEV/!svn/ver/118/src/server/life/MapleLifeFactory.java
+END
+MapleMonsterInformationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/118/src/server/life/MapleMonsterInformationProvider.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MoopleDEV/!svn/ver/1/src/server/life/Element.java
+END
+AbstractLoadedMapleLife.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MoopleDEV/!svn/ver/1/src/server/life/AbstractLoadedMapleLife.java
+END
+MonsterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/MoopleDEV/!svn/ver/1/src/server/life/MonsterListener.java
+END
+MonsterDropEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MoopleDEV/!svn/ver/82/src/server/life/MonsterDropEntry.java
+END

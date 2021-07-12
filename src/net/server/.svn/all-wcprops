@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/MoopleDEV/!svn/ver/118/src/net/server
+END
+PlayerStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MoopleDEV/!svn/ver/117/src/net/server/PlayerStorage.java
+END
+CreateINI.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MoopleDEV/!svn/ver/117/src/net/server/CreateINI.java
+END
+RankingWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MoopleDEV/!svn/ver/108/src/net/server/RankingWorker.java
+END
+PlayerBuffStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MoopleDEV/!svn/ver/113/src/net/server/PlayerBuffStorage.java
+END
+PlayerDiseaseValueHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MoopleDEV/!svn/ver/113/src/net/server/PlayerDiseaseValueHolder.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MoopleDEV/!svn/ver/119/src/net/server/Server.java
+END
+PlayerBuffValueHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MoopleDEV/!svn/ver/113/src/net/server/PlayerBuffValueHolder.java
+END
+PlayerCoolDownValueHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MoopleDEV/!svn/ver/113/src/net/server/PlayerCoolDownValueHolder.java
+END

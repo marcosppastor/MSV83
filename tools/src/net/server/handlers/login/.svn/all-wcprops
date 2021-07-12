@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MoopleDEV/!svn/ver/118/src/net/server/handlers/login
+END
+CreateCharHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/119/src/net/server/handlers/login/CreateCharHandler.java
+END
+ViewAllCharSelectedWithPicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/MoopleDEV/!svn/ver/117/src/net/server/handlers/login/ViewAllCharSelectedWithPicHandler.java
+END
+ViewAllPicRegisterHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MoopleDEV/!svn/ver/117/src/net/server/handlers/login/ViewAllPicRegisterHandler.java
+END
+ViewCharHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MoopleDEV/!svn/ver/117/src/net/server/handlers/login/ViewCharHandler.java
+END
+ServerlistRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MoopleDEV/!svn/ver/117/src/net/server/handlers/login/ServerlistRequestHandler.java
+END
+CheckCharNameHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MoopleDEV/!svn/ver/117/src/net/server/handlers/login/CheckCharNameHandler.java
+END
+CharSelectedWithPicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MoopleDEV/!svn/ver/117/src/net/server/handlers/login/CharSelectedWithPicHandler.java
+END
+RegisterPicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MoopleDEV/!svn/ver/117/src/net/server/handlers/login/RegisterPicHandler.java
+END
+GuestLoginHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/117/src/net/server/handlers/login/GuestLoginHandler.java
+END
+SetGenderHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MoopleDEV/!svn/ver/116/src/net/server/handlers/login/SetGenderHandler.java
+END
+RelogRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/116/src/net/server/handlers/login/RelogRequestHandler.java
+END
+CharlistRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MoopleDEV/!svn/ver/117/src/net/server/handlers/login/CharlistRequestHandler.java
+END
+ServerStatusRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MoopleDEV/!svn/ver/117/src/net/server/handlers/login/ServerStatusRequestHandler.java
+END
+PickCharHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MoopleDEV/!svn/ver/117/src/net/server/handlers/login/PickCharHandler.java
+END
+AcceptToSHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MoopleDEV/!svn/ver/117/src/net/server/handlers/login/AcceptToSHandler.java
+END
+CharSelectedHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/handlers/login/CharSelectedHandler.java
+END
+AfterLoginHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/117/src/net/server/handlers/login/AfterLoginHandler.java
+END
+RegisterPinHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MoopleDEV/!svn/ver/116/src/net/server/handlers/login/RegisterPinHandler.java
+END
+LoginPasswordHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MoopleDEV/!svn/ver/119/src/net/server/handlers/login/LoginPasswordHandler.java
+END
+DeleteCharHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/117/src/net/server/handlers/login/DeleteCharHandler.java
+END

@@ -1,0 +1,737 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MoopleDEV/!svn/ver/118/src/net/server/channel/handlers
+END
+LeftKnockbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/LeftKnockbackHandler.java
+END
+CharInfoRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/CharInfoRequestHandler.java
+END
+MTSHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/MTSHandler.java
+END
+DoorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/DoorHandler.java
+END
+NoteActionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/NoteActionHandler.java
+END
+PartySearchStartHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/PartySearchStartHandler.java
+END
+UseChairHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/119/src/net/server/channel/handlers/UseChairHandler.java
+END
+PetExcludeItemsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/PetExcludeItemsHandler.java
+END
+ReactorHitHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/ReactorHitHandler.java
+END
+EnterCashShopHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MoopleDEV/!svn/ver/118/src/net/server/channel/handlers/EnterCashShopHandler.java
+END
+ItemPickupHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/120/src/net/server/channel/handlers/ItemPickupHandler.java
+END
+CoconutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/CoconutHandler.java
+END
+BuddylistModifyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/BuddylistModifyHandler.java
+END
+ReportHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/ReportHandler.java
+END
+UseMapleLifeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/UseMapleLifeHandler.java
+END
+AutoAssignHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/AutoAssignHandler.java
+END
+FaceExpressionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/FaceExpressionHandler.java
+END
+CloseChalkboardHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/CloseChalkboardHandler.java
+END
+PartyOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/PartyOperationHandler.java
+END
+DistributeSPHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/DistributeSPHandler.java
+END
+SnowballHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/SnowballHandler.java
+END
+NPCAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/NPCAnimation.java
+END
+GiveFameHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/GiveFameHandler.java
+END
+HealOvertimeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/HealOvertimeHandler.java
+END
+BeholderHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/BeholderHandler.java
+END
+BBSOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/BBSOperationHandler.java
+END
+MessengerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/MessengerHandler.java
+END
+SkillBookHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/SkillBookHandler.java
+END
+TrockAddMapHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/TrockAddMapHandler.java
+END
+FamilyAddHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/FamilyAddHandler.java
+END
+PartySearchRegisterHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/PartySearchRegisterHandler.java
+END
+CancelChairHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/CancelChairHandler.java
+END
+FamilyUseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/FamilyUseHandler.java
+END
+ScrollHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/ScrollHandler.java
+END
+MonsterBookCoverHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/MonsterBookCoverHandler.java
+END
+EnterMTSHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/118/src/net/server/channel/handlers/EnterMTSHandler.java
+END
+CancelDebuffHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/CancelDebuffHandler.java
+END
+AranComboHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MoopleDEV/!svn/ver/119/src/net/server/channel/handlers/AranComboHandler.java
+END
+SpawnPetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/120/src/net/server/channel/handlers/SpawnPetHandler.java
+END
+TouchReactorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/TouchReactorHandler.java
+END
+ClickGuideHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/119/src/net/server/channel/handlers/ClickGuideHandler.java
+END
+PetAutoPotHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/PetAutoPotHandler.java
+END
+ItemSortHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/ItemSortHandler.java
+END
+RemoteStoreHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/RemoteStoreHandler.java
+END
+UseItemHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/UseItemHandler.java
+END
+DamageSummonHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/DamageSummonHandler.java
+END
+SummonDamageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/SummonDamageHandler.java
+END
+SpouseChatHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/SpouseChatHandler.java
+END
+MovePetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/MovePetHandler.java
+END
+CancelItemEffectHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/CancelItemEffectHandler.java
+END
+WhisperHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/WhisperHandler.java
+END
+ItemIdSortHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/ItemIdSortHandler.java
+END
+MovePlayerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/MovePlayerHandler.java
+END
+MonsterBombHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/MonsterBombHandler.java
+END
+AdminCommandHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/119/src/net/server/channel/handlers/AdminCommandHandler.java
+END
+PetCommandHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/PetCommandHandler.java
+END
+HiredMerchantRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/HiredMerchantRequest.java
+END
+AutoAggroHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/AutoAggroHandler.java
+END
+AbstractDealDamageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MoopleDEV/!svn/ver/119/src/net/server/channel/handlers/AbstractDealDamageHandler.java
+END
+FredrickHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/FredrickHandler.java
+END
+SkillEffectHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/SkillEffectHandler.java
+END
+RemoteGachaponHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/RemoteGachaponHandler.java
+END
+RingActionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/RingActionHandler.java
+END
+CouponCodeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/CouponCodeHandler.java
+END
+CashOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/CashOperationHandler.java
+END
+DistributeAPHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/DistributeAPHandler.java
+END
+UseSolomonHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/UseSolomonHandler.java
+END
+StorageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/StorageHandler.java
+END
+PlayerLoggedinHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/PlayerLoggedinHandler.java
+END
+MoveLifeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/120/src/net/server/channel/handlers/MoveLifeHandler.java
+END
+DueyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/DueyHandler.java
+END
+AbstractMovementPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/AbstractMovementPacketHandler.java
+END
+MobDamageMobFriendlyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/MobDamageMobFriendlyHandler.java
+END
+SpecialMoveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/SpecialMoveHandler.java
+END
+TouchingCashShopHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/TouchingCashShopHandler.java
+END
+NPCShopHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/NPCShopHandler.java
+END
+GeneralchatHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/GeneralchatHandler.java
+END
+ChangeChannelHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MoopleDEV/!svn/ver/118/src/net/server/channel/handlers/ChangeChannelHandler.java
+END
+CloseRangeDamageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/CloseRangeDamageHandler.java
+END
+UseDeathItemHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/UseDeathItemHandler.java
+END
+ItemMoveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/ItemMoveHandler.java
+END
+GuildOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/GuildOperationHandler.java
+END
+PetLootHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/PetLootHandler.java
+END
+UseMountFoodHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/UseMountFoodHandler.java
+END
+MesoDropHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/MesoDropHandler.java
+END
+CancelBuffHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/CancelBuffHandler.java
+END
+DenyPartyRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/DenyPartyRequestHandler.java
+END
+PetChatHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/PetChatHandler.java
+END
+RangedAttackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/RangedAttackHandler.java
+END
+AdminChatHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MoopleDEV/!svn/ver/119/src/net/server/channel/handlers/AdminChatHandler.java
+END
+ScriptedItemHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/ScriptedItemHandler.java
+END
+DenyGuildRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/DenyGuildRequestHandler.java
+END
+MakerSkillHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/MakerSkillHandler.java
+END
+SkillMacroHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/SkillMacroHandler.java
+END
+AcceptFamilyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/119/src/net/server/channel/handlers/AcceptFamilyHandler.java
+END
+ItemRewardHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/119/src/net/server/channel/handlers/ItemRewardHandler.java
+END
+MoveSummonHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/MoveSummonHandler.java
+END
+MonsterCarnivalHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/MonsterCarnivalHandler.java
+END
+UseSummonBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/UseSummonBag.java
+END
+MobDamageMobHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/MobDamageMobHandler.java
+END
+UseCashItemHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/UseCashItemHandler.java
+END
+UseCatchItemHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/120/src/net/server/channel/handlers/UseCatchItemHandler.java
+END
+MagicDamageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/MagicDamageHandler.java
+END
+NPCMoreTalkHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/NPCMoreTalkHandler.java
+END
+WeddingHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MoopleDEV/!svn/ver/120/src/net/server/channel/handlers/WeddingHandler.java
+END
+ChangeMapHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MoopleDEV/!svn/ver/118/src/net/server/channel/handlers/ChangeMapHandler.java
+END
+TakeDamageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/TakeDamageHandler.java
+END
+ChangeMapSpecialHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MoopleDEV/!svn/ver/120/src/net/server/channel/handlers/ChangeMapSpecialHandler.java
+END
+UseHammerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/UseHammerHandler.java
+END
+UseItemEffectHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/UseItemEffectHandler.java
+END
+AllianceOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/AllianceOperationHandler.java
+END
+TouchMonsterDamageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/TouchMonsterDamageHandler.java
+END
+AdminLogHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/AdminLogHandler.java
+END
+KeymapChangeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/KeymapChangeHandler.java
+END
+NPCTalkHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/NPCTalkHandler.java
+END
+PlayerInteractionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/PlayerInteractionHandler.java
+END
+InnerPortalHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/InnerPortalHandler.java
+END
+UseGachaExpHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/UseGachaExpHandler.java
+END
+PartyChatHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/PartyChatHandler.java
+END
+PlayerUpdateHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/PlayerUpdateHandler.java
+END
+QuestActionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MoopleDEV/!svn/ver/117/src/net/server/channel/handlers/QuestActionHandler.java
+END
+PetFoodHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MoopleDEV/!svn/ver/120/src/net/server/channel/handlers/PetFoodHandler.java
+END

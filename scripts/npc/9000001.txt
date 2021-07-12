@@ -1,0 +1,24 @@
+var status = 0;
+
+function start() {
+    status = -1;
+    action(1, 0, 0);
+}
+
+function action(mode, type, selection)
+{
+    if (mode == -1)
+        cm.dispose();
+
+        if (mode == 1)
+            status++;
+        else
+            status--;
+
+        if (status == 0) 
+            cm.sendSimple("Thank you for joining our event. If you did not receive your price, whisp #bThomas#k or #bDrazharm#k. \r\n#L0##bWarp me back, please!#k#l \r\n#L1##bI would like to stay here for a bit.#k#l");
+        else if (status == 1 && selection == 0)
+            cm.warp(910000001, 0);
+        else if (status == 1 && selection == 1)
+            cm.dispose();
+        }

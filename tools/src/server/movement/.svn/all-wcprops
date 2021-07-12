@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/MoopleDEV/!svn/ver/115/src/server/movement
+END
+ChairMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MoopleDEV/!svn/ver/115/src/server/movement/ChairMovement.java
+END
+RelativeLifeMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MoopleDEV/!svn/ver/115/src/server/movement/RelativeLifeMovement.java
+END
+AbsoluteLifeMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MoopleDEV/!svn/ver/115/src/server/movement/AbsoluteLifeMovement.java
+END
+ChangeEquip.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/MoopleDEV/!svn/ver/1/src/server/movement/ChangeEquip.java
+END
+LifeMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MoopleDEV/!svn/ver/115/src/server/movement/LifeMovement.java
+END
+AbstractLifeMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MoopleDEV/!svn/ver/115/src/server/movement/AbstractLifeMovement.java
+END
+JumpDownMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MoopleDEV/!svn/ver/115/src/server/movement/JumpDownMovement.java
+END
+LifeMovementFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MoopleDEV/!svn/ver/1/src/server/movement/LifeMovementFragment.java
+END

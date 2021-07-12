@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/MoopleDEV/!svn/ver/118/src/server
+END
+MapleTrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MoopleDEV/!svn/ver/120/src/server/MapleTrade.java
+END
+MTSItemInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/MoopleDEV/!svn/ver/117/src/server/MTSItemInfo.java
+END
+MaplePlayerShop.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MoopleDEV/!svn/ver/120/src/server/MaplePlayerShop.java
+END
+MapleShop.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/MoopleDEV/!svn/ver/120/src/server/MapleShop.java
+END
+CashShop.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/MoopleDEV/!svn/ver/117/src/server/CashShop.java
+END
+TimerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MoopleDEV/!svn/ver/113/src/server/TimerManager.java
+END
+MapleInventoryManipulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MoopleDEV/!svn/ver/117/src/server/MapleInventoryManipulator.java
+END
+MapleStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MoopleDEV/!svn/ver/120/src/server/MapleStorage.java
+END
+MapleSquad.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MoopleDEV/!svn/ver/120/src/server/MapleSquad.java
+END
+MaplePortal.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/MoopleDEV/!svn/ver/1/src/server/MaplePortal.java
+END
+MapleShopFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MoopleDEV/!svn/ver/115/src/server/MapleShopFactory.java
+END
+MaplePlayerShopItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MoopleDEV/!svn/ver/117/src/server/MaplePlayerShopItem.java
+END
+MapleSquadType.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MoopleDEV/!svn/ver/1/src/server/MapleSquadType.java
+END
+MapleMiniGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MoopleDEV/!svn/ver/117/src/server/MapleMiniGame.java
+END
+MapleShopItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MoopleDEV/!svn/ver/95/src/server/MapleShopItem.java
+END
+PortalFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/MoopleDEV/!svn/ver/1/src/server/PortalFactory.java
+END
+MapleStatEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MoopleDEV/!svn/ver/120/src/server/MapleStatEffect.java
+END
+TimerManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MoopleDEV/!svn/ver/1/src/server/TimerManagerMBean.java
+END
+MapleItemInformationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MoopleDEV/!svn/ver/117/src/server/MapleItemInformationProvider.java
+END
+MakerItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/MoopleDEV/!svn/ver/1/src/server/MakerItemFactory.java
+END
+DueyPackages.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MoopleDEV/!svn/ver/117/src/server/DueyPackages.java
+END

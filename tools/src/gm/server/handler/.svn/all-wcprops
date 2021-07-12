@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/MoopleDEV/!svn/ver/117/src/gm/server/handler
+END
+LoginHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MoopleDEV/!svn/ver/117/src/gm/server/handler/LoginHandler.java
+END
+PlayerListHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MoopleDEV/!svn/ver/117/src/gm/server/handler/PlayerListHandler.java
+END
+CommandHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MoopleDEV/!svn/ver/117/src/gm/server/handler/CommandHandler.java
+END
+ChatHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MoopleDEV/!svn/ver/116/src/gm/server/handler/ChatHandler.java
+END

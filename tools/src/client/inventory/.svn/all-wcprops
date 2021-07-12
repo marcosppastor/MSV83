@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/MoopleDEV/!svn/ver/117/src/client/inventory
+END
+Equip.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MoopleDEV/!svn/ver/117/src/client/inventory/Equip.java
+END
+ModifyInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MoopleDEV/!svn/ver/117/src/client/inventory/ModifyInventory.java
+END
+ItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MoopleDEV/!svn/ver/117/src/client/inventory/ItemFactory.java
+END
+MaplePet.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/MoopleDEV/!svn/ver/117/src/client/inventory/MaplePet.java
+END
+PetCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MoopleDEV/!svn/ver/117/src/client/inventory/PetCommand.java
+END
+MapleWeaponType.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MoopleDEV/!svn/ver/117/src/client/inventory/MapleWeaponType.java
+END
+PetDataFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/MoopleDEV/!svn/ver/117/src/client/inventory/PetDataFactory.java
+END
+MapleInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/MoopleDEV/!svn/ver/117/src/client/inventory/MapleInventory.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/MoopleDEV/!svn/ver/117/src/client/inventory/Item.java
+END
+MapleInventoryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MoopleDEV/!svn/ver/117/src/client/inventory/MapleInventoryType.java
+END
