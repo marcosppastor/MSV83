@@ -12,4 +12,4 @@
 2. cd MSV83
 
 ## License
-This source is public.
+This source is licensed under the <a href="https://opensource.org/licenses/MIT">MIT license</a>
