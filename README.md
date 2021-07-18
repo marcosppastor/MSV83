@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">MapleStory v83 repository. Java Server Emulator.</p>
-<p align="center">Source base of the following projects: <a href="https://www.youtube.com/results?search_query=ZenityMS" target="_blank">ZenityMS</a>, <a href="https://www.youtube.com/results?search_query=OrbisMS+Orbis+MapleStory" target="_blank">OrbisMS</a>, <a href="https://www.youtube.com/results?search_query=AcreMS" target="_blank">AcreMS</a>, <a href="https://www.youtube.com/results?search_query=TrueMS" target="_blank">TrueMS v1 and v2</a> and <a href="https://www.youtube.com/results?search_query=MapleStory+Origens" target="_blank">MSOrigens (the latter took strike from nexon)</a></p>
+<p align="center">Source base of the following projects: <a href="https://www.youtube.com/results?search_query=ZenityMS" target="_blank">ZenityMS</a>, <a href="https://www.youtube.com/results?search_query=OrbisMS+Orbis+MapleStory" target="_blank">OrbisMS</a>, <a href="https://www.youtube.com/results?search_query=AcreMS" target="_blank">AcreMS</a>, <a href="https://www.youtube.com/results?search_query=TrueMS" target="_blank">TrueMS v1 and v2</a> and <a href="https://www.youtube.com/results?search_query=MapleStory+Origens" target="_blank">MSOrigens (striked by nexon)</a></p>
 
 ## Installation
 1. git clone https://github.com/marcosppastor/MSV83.git
